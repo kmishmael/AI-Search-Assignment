@@ -1,5 +1,4 @@
 # AI Search Assignmet
-
 This is an assignment to test your skills in search algorithms.
 The algorithms used in this assignment are:
 
